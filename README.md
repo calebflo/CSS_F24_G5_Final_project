@@ -9,13 +9,11 @@ Repository Structure
 /scripts/: Scripts used for automation and testing.
 /screenshots/: Visual evidence of implementation.
 /results/: Logs and output data from tests and configurations.
+
 How to Use This Repository
 Navigate to the relevant folder based on the type of file you need.
 Follow the instructions in the documentation to replicate the setup.
-Team Members
-Member 1: Endpoint Security Specialist
-Member 2: Cryptography Expert
-Member 3: Network Specialist
+
 References
 Wazuh Documentation
 OpenSSL Guide
