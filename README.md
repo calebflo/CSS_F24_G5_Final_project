@@ -17,7 +17,7 @@ This repository contains all the necessary files, configurations, and documentat
 ## Team Members
 - Member 1: Caleb Flores
 - Member 2: Hector Gomez Jr
-- Member 3: Network Specialist
+
 
 ## References
 - [Wazuh Documentation](https://documentation.wazuh.com/)
