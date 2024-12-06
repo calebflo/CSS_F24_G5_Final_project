@@ -1,20 +1,25 @@
+# Secure Office Setup for Remote Workforces
 
-Secure Office Setup for Remote Workforces
-Project Overview
+## Project Overview
 This repository contains all the necessary files, configurations, and documentation for the Secure Office Setup for Remote Workforces project. The project demonstrates the application of multi-layered cybersecurity principles, including endpoint security, cryptography, and network security.
 
-Repository Structure
-/docs/: Detailed project documentation.
-/config/: Configuration files for tools like OpenVPN, UFW, and Wazuh.
-/scripts/: Scripts used for automation and testing.
-/screenshots/: Visual evidence of implementation.
-/results/: Logs and output data from tests and configurations.
+## Repository Structure
+- **/docs/**: Detailed project documentation.
+- **/config/**: Configuration files for tools like OpenVPN, UFW, and Wazuh.
+- **/scripts/**: Scripts used for automation and testing.
+- **/screenshots/**: Visual evidence of implementation.
+- **/results/**: Logs and output data from tests and configurations.
 
-How to Use This Repository
-Navigate to the relevant folder based on the type of file you need.
-Follow the instructions in the documentation to replicate the setup.
+## How to Use This Repository
+1. Navigate to the relevant folder based on the type of file you need.
+2. Follow the instructions in the documentation to replicate the setup.
 
-References
-Wazuh Documentation
-OpenSSL Guide
-Wireshark User Guide
+## Team Members
+- Member 1: Caleb Flores
+- Member 2: Hector Gomez Jr
+- Member 3: Network Specialist
+
+## References
+- [Wazuh Documentation](https://documentation.wazuh.com/)
+- [OpenSSL Guide](https://www.openssl.org/docs/)
+- [Google Authenticator Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&pli=1)
