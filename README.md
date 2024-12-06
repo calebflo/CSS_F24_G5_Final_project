@@ -23,4 +23,4 @@ This repository contains all the necessary files, configurations, and documentat
 - [Wazuh Documentation](https://documentation.wazuh.com/)
 - [OpenSSL Guide](https://www.openssl.org/docs/)
 - [Google Authenticator Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&pli=1)
-[Clam AV Guide](https://docs.clamav.net/)
+-[Clam AV Guide](https://docs.clamav.net/)
